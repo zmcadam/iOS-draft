@@ -1,7 +1,7 @@
 # iOS-draft
-###模仿一个股票app，练手
+###仿股票 界面绘制
 首页：
-  
+     
       1.scrollview＋pagecontrol使用  
 
       2.JNWSpringAnnimation使用  
